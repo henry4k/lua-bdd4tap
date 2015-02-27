@@ -1,8 +1,8 @@
 package = 'lua-bdd4tap'
-version = '1.0-1'
+version = '1.0-2'
 source = {
     url = 'git://github.com/henry4k/lua-bdd4tap',
-    tag = 'v1.0-1'
+    tag = 'v1.0-2'
 }
 description = {
     summary = 'A BDD wrapper for lua-testmore',
