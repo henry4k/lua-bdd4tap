@@ -8,7 +8,7 @@ description = {
     summary = 'A BDD wrapper for lua-testmore',
     license = 'UNLICENCE',
     homepage = 'https://github.com/henry4k/lua-bdd4tap',
-    maintainer = 'Henry Kielmann'
+    maintainer = 'henry4k'
 }
 dependencies = {
     'lua >= 5.1',
